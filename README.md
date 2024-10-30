@@ -25,6 +25,7 @@
 
 ![image](https://github.com/user-attachments/assets/54e29f6f-6230-4066-bf4f-1e2ec4ba0bc0)
 
+## การสร้าง Task เบื้องต้น
 
 ``` cpp
 #include <stdio.h>
@@ -57,7 +58,7 @@ Build และทดสอบบนบอร์ด ESP32
 ![image](https://github.com/user-attachments/assets/2cd1af41-2929-4798-b790-92c7a39a018a)
 
 
-จะเห็นผลลัพน์ที่ได้ คือ 
+จะเห็นผลลัพน์ที่ได้ คือ  การนับถอยหลังที่แสดงผลบนคอนโซลทุกวินาที โดยวนไปที่ตัวเลข 10 ถึง 0
 
 ## ฟังก์ชัน xTaskCreate()
 
