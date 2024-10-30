@@ -152,4 +152,4 @@ void app_main(void)
 
 
 
-ลิงค์ Project ที่ทำบน VS code :
+ลิงค์ Project ที่ทำบน VS code : https://github.com/AnchisaPhetnoi/project-esp-FreeRTOS_Task.git
